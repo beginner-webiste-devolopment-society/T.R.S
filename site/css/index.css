@@ -1,0 +1,9 @@
+body {
+ background-image: linear-gradient(maroon, blue);
+}
+* {
+  color:white;
+}
+button {
+background-color: black;
+}
