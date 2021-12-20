@@ -7,3 +7,7 @@ body {
 button {
 background-color: black;
 }
+button:hover {
+  cursor: crosshair;
+  background-color:grey;
+}
